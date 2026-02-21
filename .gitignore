@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+*.zip
+*.csv
+salesforce_eval_outputs_*
+localization-xml-mt/
